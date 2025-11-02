@@ -20,6 +20,6 @@ while True:
 
     resposta = input('Quer jogar novamente?')
     if resposta.lower() != 's':
-        print('Ok! Foi bom jogar com você!')
-        break
+            print('Ok! Foi bom jogar com você!')
+
     

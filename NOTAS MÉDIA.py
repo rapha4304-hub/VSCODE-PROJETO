@@ -5,6 +5,6 @@ media = 0
 for nota in notas:
     media += nota
 
-media /= 4
+media /= 4.3
 
 print(f' A media é {media}')
